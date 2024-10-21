@@ -4,29 +4,4 @@
 
 @import 'modern-resume-theme';
 /* Custom CSS to align the date and university name in one line */
-.education-entry {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-}
-/* Style the date next to the title */
-.education-title {
-  font-weight: bold;
-}
 
-.education-date {
-  font-size: 0.85em; /* Makes the date smaller */
-  font-weight: normal; /* Ensures the date is not bold */
-  margin-left: 0.5em; /* Adds a little space between the university name and the date */
-  color: #6c757d; /* Optional: Gray color to match the caption style */
-}
-
-.education-thesis {
-  margin-top: 0.5em;
-  font-style: italic;
-}
-
-.education-description {
-  margin-top: 0.5em;
-  text-align: left;
-}
