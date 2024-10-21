@@ -52,14 +52,14 @@ about_content: |
   
 content:
   - title: "University of Leicester <span class='education-date'>(2019)</span>"
-    sub_title: "BSc Hons in Mathematics (First Class Honours)"
+    sub_title: "BSc Hons in Mathematics, with First Class Honours"
     description: | # The pipe symbol allows for multiline text
       Thesis: "Convolutional Neural Networks for Audio Classification"
 
       During my BSc, I honed my mathematical reasoning and problem-solving skills, which laid the groundwork for my transition into AI and computational research. My studies included a deep dive into algebra, calculus, and statistics, which have proven essential in my current research.
 
   - title: "University of Nottingham <span class='education-date'>(2020)</span>"
-    sub_title: "MSc in Computer Science and Artificial Intelligence (Distinction)"
+    sub_title: "MSc in Computer Science and Artificial Intelligence, with Distinction"
     description: |
       Thesis: "Histological Image Registration using Deep Convolutional Features"
 
