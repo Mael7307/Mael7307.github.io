@@ -41,7 +41,7 @@ orcid_username: 0000-0002-0303-2046
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-I am a Ph.D. student in the Department of Computer Science at the University of Manchester. I hold an MSc in Computer Science and Artificial Intelligence from the University of Nottingham and a BSc in Mathematics from the University of Leicester, both achieved with distinction. My current research focuses on <mark>Natural Language Inference<mark> within the clinical domain, leveraging <mark>neuro-symbolic models<mark>.
+I am a Ph.D. student in the Department of Computer Science at the University of Manchester. My current research focuses on <mark>Natural Language Inference<mark> within the clinical domain, leveraging <mark>neuro-symbolic models<mark>.
 
 content:
   - title: Projects # Title for the section
