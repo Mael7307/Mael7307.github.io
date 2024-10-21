@@ -44,7 +44,7 @@ about_content: |
   I am a Ph.D. student in the Department of Computer Science at the University of Manchester, 
   part of the [Neuro-Symbolic AI Group](https://www.idiap.ch/en/scientific-research/neuro-symbolic-ai).
   
-  My research focuses on investigating artificial intelligence models, such as Large Language Models (LLMs), 
+  My research focuses on investigating AI models, such as Large Language Models (LLMs), 
   to perform Natural Language Inference in the clinical domain, including tasks like 
   retrieving and ranking clinical trials for patients and classifying clinical trial protocol deviations. A key aspect of my work is designing hybrid neuro-symbolic architectures that are both explainable, and 
   integrated with ground knowledge, such as ontologies, for improved robustness, efficiency, and controllability. 
@@ -92,16 +92,16 @@ content:
         caption: 2020
         sub_title: MSc in Computer Science and Artificial Intelligence (Distinction)
         quote: >
-          The University of Nottingham is renowned for its research output and academic excellence, particularly in the fields of computer science and artificial intelligence.
+          Thesis: "Histological Image Registration using Deep Convolutional Features"
         description: | # this will include new lines to allow paragraphs
-          During my MSc, I developed a strong foundation in Artificial Intelligence, focusing on key areas such as machine learning, neural networks, and natural language processing. My dissertation work centered on integrating AI models with symbolic reasoning, which has been pivotal in shaping my research direction.
+          During my MSc, I developed a strong foundation in Artificial Intelligence, focusing on key areas such as convolutional neural networks. My dissertation work centered on applying AI to the clinical domain, which has been pivotal in shaping my research direction.
 
       - layout: left
         title: University of Leicester
         caption: 2019
         sub_title: BSc Hons in Mathematics (First Class Honours)
         quote: >
-          The University of Leicester is a leading UK institution known for its strength in mathematics, fostering analytical skills and problem-solving abilities in its students.
+          Thesis: "Convolutional Neural Networks for Audio Classification" 
         description: | # this will include new lines to allow paragraphs
           During my BSc, I honed my mathematical reasoning and problem-solving skills, which laid the groundwork for my transition into AI and computational research. My studies included a deep dive into algebra, calculus, and statistics, which have proven essential in my current research.
 # Footer
