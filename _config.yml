@@ -11,7 +11,7 @@ title: PhD Student
 email: mael.jullien@postgrad.manchester.ac.uk
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: Mael_Jullien
@@ -101,6 +101,18 @@ content:
         title: "<a href='https://arxiv.org/abs/2305.02993'>SemEval-2023 Task 7: Multi-Evidence Natural Language Inference for Clinical Trial Data</a>"
         caption: "The 17th International Workshop on Semantic Evaluation (Semeval-2023) co-located with The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). Toronto, Canada."
         sub_title: "Co-authors: Mael Jullien, Marco Valentino, André Freitas"  
+        
+  - title: Talks and Posters # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - title: "PhD Scholarship"
+        caption: "University of Manchester"
+        description: "Awarded a PhD scholarship by the University of Manchester."
+
+      - title: "Best Task Paper Award Honorable Mention"
+        caption: "SemEval-2023, ACL 2023"
+        description: "Received an Honorable Mention for the Best Task Paper at the 17th International Workshop on Semantic Evaluation (SemEval-2023), co-located with the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)."
+                
         
   - title: Awards # Title for the section
     layout: list # Type of content section (list/text)
