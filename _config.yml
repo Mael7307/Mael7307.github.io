@@ -54,13 +54,13 @@ content:
     content:
       - layout: top
         title: University of Nottingham, 2020
-        sub_title: MSc in Computer Science and Artificial Intelligence (Distinction)
+        sub_title: MSc in Computer Science and Artificial Intelligence, with Distinction
         description: |
           <em>Thesis: "Histological Image Registration using Deep Convolutional Features"</em>  
           During my MSc, I developed a strong foundation in Artificial Intelligence, focusing on key areas such as convolutional neural networks. My dissertation work centered on applying AI to the clinical domain, which has been pivotal in shaping my research direction.
       - layout: top
         title: University of Leicester, 2019
-        sub_title: BSc Hons in Mathematics (First Class Honours)
+        sub_title: BSc Hons in Mathematics, with First Class Honours
         description: |
           <em>Thesis: "Convolutional Neural Networks for Audio Classification"</em>  
           During my BSc, I honed my mathematical reasoning and problem-solving skills, which laid the groundwork for my transition into AI and computational research. My studies included a deep dive into algebra, calculus, and statistics, which have proven essential in my current research.
