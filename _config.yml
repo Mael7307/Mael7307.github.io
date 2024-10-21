@@ -51,26 +51,19 @@ about_content: |
   Additionally, working to uncover inference mechanisms and limitations of LLMs.
   
 content:
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top
-        title: University of Nottingham
-        caption: 2020
-        sub_title: MSc in Computer Science and Artificial Intelligence (Distinction)
-        quote: >
-          Thesis: "Histological Image Registration using Deep Convolutional Features"
-        description: | # this will include new lines to allow paragraphs
-          During my MSc, I developed a strong foundation in Artificial Intelligence, focusing on key areas such as convolutional neural networks. My dissertation work centered on applying AI to the clinical domain, which has been pivotal in shaping my research direction.
+  - title: "University of Leicester <span class='education-date'>(2019)</span>"
+    sub_title: "BSc Hons in Mathematics (First Class Honours)"
+    description: | # The pipe symbol allows for multiline text
+      Thesis: "Convolutional Neural Networks for Audio Classification"
 
-      - layout: top
-        title: University of Leicester
-        caption: 2019
-        sub_title: BSc Hons in Mathematics (First Class Honours)
-        quote: >
-          Thesis: "Convolutional Neural Networks for Audio Classification" 
-        description: | # this will include new lines to allow paragraphs
-          During my BSc, I honed my mathematical reasoning and problem-solving skills, which laid the groundwork for my transition into AI and computational research. My studies included a deep dive into algebra, calculus, and statistics, which have proven essential in my current research.
+      During my BSc, I honed my mathematical reasoning and problem-solving skills, which laid the groundwork for my transition into AI and computational research. My studies included a deep dive into algebra, calculus, and statistics, which have proven essential in my current research.
+
+  - title: "University of Nottingham <span class='education-date'>(2020)</span>"
+    sub_title: "MSc in Computer Science and Artificial Intelligence (Distinction)"
+    description: |
+      Thesis: "Histological Image Registration using Deep Convolutional Features"
+
+      During my MSc, I developed a strong foundation in Artificial Intelligence, focusing on key areas such as convolutional neural networks. My dissertation work centered on applying AI to the clinical domain, which has been pivotal in shaping my research direction.
   - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
     content:
