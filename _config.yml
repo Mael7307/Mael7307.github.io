@@ -55,7 +55,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-     - layout: top
+      - layout: top
         title: "SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials"
         caption: "SemEval, 2024"
         sub_title: "Co-authors: Mael Jullien, Marco Valentino, André Freitas"
@@ -67,7 +67,7 @@ content:
         title: "Another Paper Title"
         caption: "Journal or Conference Name, Year"
         sub_title: "Co-authors: Author1, Author2"
-        description: | # This allows new lines for paragraphs
+        description: | # This allows new lines to allow paragraphs
           Another summary of a different publication. You can include key findings and methodologies used.
         link: "https://another_link_to_publication.com"
 
@@ -75,7 +75,7 @@ content:
         title: "Another Paper Title"
         caption: "Journal or Conference Name, Year"
         sub_title: "Co-authors: Author1, Author2"
-        description: | # This allows new lines for paragraphs
+        description: | # This allows new lines to allow paragraphs
           Another summary of a different publication. You can include key findings and methodologies used.
         link: "https://another_link_to_publication.com"
   - title: Education # Title for the section
