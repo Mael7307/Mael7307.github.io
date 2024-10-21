@@ -56,28 +56,33 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
+        title: "[SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials](https://aclanthology.org/2024.semeval-1.271/)"
+        caption: "SemEval, 2024"
+        sub_title: "Co-authors: Mael Jullien, Marco Valentino, André Freitas"
+        
+      - layout: top
         title: "SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials"
         caption: "SemEval, 2024"
         sub_title: "Co-authors: Mael Jullien, Marco Valentino, André Freitas"
-        description: |
-          Large Language Models (LLMs) excel in NLP tasks but face challenges in shortcut learning, factual inconsistency, and vulnerability to adversarial inputs. This is especially problematic in medical contexts, where such limitations can misrepresent actual model capabilities. This paper introduces SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials. The task presents the refined NLI4CT-P dataset, designed to test LLMs on interventional and causal reasoning in clinical trials, and includes a comprehensive evaluation of over 1200 submissions from 106 participants. The goal is to enhance the robustness and applicability of NLI models in healthcare. The dataset, leaderboard, and website are publicly available.
+        link: "https://aclanthology.org/2024.semeval-1.271/"
+        
+      - layout: top
+        title: "SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials"
+        caption: "SemEval, 2024"
+        sub_title: "Co-authors: Mael Jullien, Marco Valentino, André Freitas"
+        link: "https://aclanthology.org/2024.semeval-1.271/"
+        
+      - layout: top
+        title: "SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials"
+        caption: "SemEval, 2024"
+        sub_title: "Co-authors: Mael Jullien, Marco Valentino, André Freitas"
         link: "https://aclanthology.org/2024.semeval-1.271/"
 
-      - layout: left
-        title: "Another Paper Title"
-        caption: "Journal or Conference Name, Year"
-        sub_title: "Co-authors: Author1, Author2"
-        description: | # This allows new lines to allow paragraphs
-          Another summary of a different publication. You can include key findings and methodologies used.
-        link: "https://another_link_to_publication.com"
-
-      - layout: left
-        title: "Another Paper Title"
-        caption: "Journal or Conference Name, Year"
-        sub_title: "Co-authors: Author1, Author2"
-        description: | # This allows new lines to allow paragraphs
-          Another summary of a different publication. You can include key findings and methodologies used.
-        link: "https://another_link_to_publication.com"
+      - layout: top
+        title: "SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials"
+        caption: "SemEval, 2024"
+        sub_title: "Co-authors: Mael Jullien, Marco Valentino, André Freitas"
+        link: "https://aclanthology.org/2024.semeval-1.271/"
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
