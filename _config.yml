@@ -56,12 +56,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: "[SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials](https://aclanthology.org/2024.semeval-1.271/)"
+        title: "<a href='https://aclanthology.org/2024.semeval-1.271/'>SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials</a>"
         caption: "SemEval, 2024"
         sub_title: "Co-authors: Mael Jullien, Marco Valentino, André Freitas"
         
       - layout: top
-        title: "SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials"
+        title: "[Do Transformers Encode a Foundational Ontology? Probing Abstract Classes in Natural Language](https://arxiv.org/abs/2201.10262)"
         caption: "SemEval, 2024"
         sub_title: "Co-authors: Mael Jullien, Marco Valentino, André Freitas"
         link: "https://aclanthology.org/2024.semeval-1.271/"
