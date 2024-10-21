@@ -41,10 +41,18 @@ orcid_username: 0000-0002-0303-2046
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  # this will include new lines to allow paragraphs
-  I am a Ph.D. student in the Department of Computer Science at the University of Manchester. 
-  My current research focuses on <mark>Natural Language Inference</mark> within the clinical domain, 
-  leveraging <mark>neuro-symbolic models</mark>.
+about_content: |
+  I am a Ph.D. student in the Department of Computer Science at the University of Manchester, 
+  part of the [Neuro-Symbolic AI Group](https://www.idiap.ch/en/scientific-research/neuro-symbolic-ai).
+  
+  My research focuses on investigating artificial intelligence models, such as Large Language Models (LLMs), 
+  to perform <mark>Natural Language Inference</mark> in the clinical domain, including tasks like 
+  retrieving and ranking clinical trials for patients and classifying clinical trial protocol deviations.
+  
+  A key aspect of my work is designing hybrid <mark>neuro-symbolic architectures</mark> that are both <mark>explainable<mark>, and 
+  integrated with ground knowledge, such as <mark>ontologies</mark>, for improved robustness, efficiency, and controllability.
+  
+  Additionally, working to uncover inference mechanisms and limitations of LLMs.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
