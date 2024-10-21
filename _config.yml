@@ -41,18 +41,15 @@ orcid_username: 0000-0002-0303-2046
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-about_content: |
   I am a Ph.D. student in the Department of Computer Science at the University of Manchester, 
   part of the [Neuro-Symbolic AI Group](https://www.idiap.ch/en/scientific-research/neuro-symbolic-ai).
   
   My research focuses on investigating artificial intelligence models, such as Large Language Models (LLMs), 
-  to perform <mark>Natural Language Inference</mark> in the clinical domain, including tasks like 
-  retrieving and ranking clinical trials for patients and classifying clinical trial protocol deviations.
-  
-  A key aspect of my work is designing hybrid <mark>neuro-symbolic architectures</mark> that are both <mark>explainable<mark>, and 
-  integrated with ground knowledge, such as <mark>ontologies</mark>, for improved robustness, efficiency, and controllability.
-  
+  to perform Natural Language Inference in the clinical domain, including tasks like 
+  retrieving and ranking clinical trials for patients and classifying clinical trial protocol deviations. A key aspect of my work is designing hybrid neuro-symbolic architectures that are both explainable, and 
+  integrated with ground knowledge, such as ontologies, for improved robustness, efficiency, and controllability. 
   Additionally, working to uncover inference mechanisms and limitations of LLMs.
+  
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -91,17 +88,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: University of Nottingham
+        caption: 2020
+        sub_title: MSc in Computer Science and Artificial Intelligence (Distinction)
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          The University of Nottingham is renowned for its research output and academic excellence, particularly in the fields of computer science and artificial intelligence.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my MSc, I developed a strong foundation in Artificial Intelligence, focusing on key areas such as machine learning, neural networks, and natural language processing. My dissertation work centered on integrating AI models with symbolic reasoning, which has been pivotal in shaping my research direction.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-
+      - layout: left
+        title: University of Leicester
+        caption: 2019
+        sub_title: BSc Hons in Mathematics (First Class Honours)
+        quote: >
+          The University of Leicester is a leading UK institution known for its strength in mathematics, fostering analytical skills and problem-solving abilities in its students.
+        description: | # this will include new lines to allow paragraphs
+          During my BSc, I honed my mathematical reasoning and problem-solving skills, which laid the groundwork for my transition into AI and computational research. My studies included a deep dive into algebra, calculus, and statistics, which have proven essential in my current research.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
