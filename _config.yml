@@ -65,8 +65,8 @@ content:
         title: University of Leicester
         caption: 2019
         sub_title: BSc Hons in Mathematics (First Class Honours)
-        description: | # this will include new lines to allow paragraphs
-          <em>Thesis: "Convolutional Neural Networks for Audio Classification"<em> 
+        description: |
+          <em>Thesis: "Convolutional Neural Networks for Audio Classification"</em>  
           During my BSc, I honed my mathematical reasoning and problem-solving skills, which laid the groundwork for my transition into AI and computational research. My studies included a deep dive into algebra, calculus, and statistics, which have proven essential in my current research.
            
   - title: Papers # Title for the section
