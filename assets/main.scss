@@ -3,3 +3,28 @@
 ---
 
 @import 'modern-resume-theme';
+/* Custom CSS to align the date and university name in one line */
+.education-entry {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.education-title {
+  font-weight: bold;
+}
+
+.education-date {
+  font-style: italic;
+  margin-left: 1em; /* Space between university name and date */
+}
+
+.education-thesis {
+  margin-top: 0.5em;
+  font-style: italic;
+}
+
+.education-description {
+  margin-top: 0.5em;
+  text-align: left;
+}
