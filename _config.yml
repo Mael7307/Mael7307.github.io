@@ -42,9 +42,7 @@ orcid_username: 0000-0002-0303-2046
 about_profile_image: images/profile.jpg
 about_content: |
   I am a Ph.D. student in the Department of Computer Science at the University of Manchester, as part of the 
-  [Neuro-Symbolic AI Group](https://www.idiap.ch/en/scientific-research/neuro-symbolic-ai).
-  
-  My research focuses on investigating AI models, such as Large Language Models (LLMs), 
+  [Neuro-Symbolic AI Group](https://www.idiap.ch/en/scientific-research/neuro-symbolic-ai). My research focuses on investigating AI models, such as Large Language Models (LLMs), 
   to perform Natural Language Inference in the clinical domain, including tasks like 
   retrieving and ranking clinical trials for patients and classifying clinical trial protocol deviations. A key aspect of my work is designing hybrid neuro-symbolic architectures that are both explainable, and 
   integrated with ground knowledge, such as ontologies, for improved robustness, efficiency, and controllability. 
