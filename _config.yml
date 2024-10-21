@@ -76,6 +76,8 @@ content:
         title: "<a href='https://aclanthology.org/2023.emnlp-main.1041/'>NLI4CT: Multi-Evidence Natural Language Inference for Clinical Trial Reports</a>"
         caption: "In Proceedings of The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)."
         sub_title: "Co-authors: Mael Jullien, Marco Valentino, Hannah Frost, Paul O’Regan, Donal Landers, André Freitas."
+        additional_info: |
+          **Poster Presentation**: Presented at the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023).
         
       - layout: top
         title: "<a href='https://arxiv.org/abs/2409.18998'>Controlled LLM-based Reasoning for Clinical Trial Retrieval</a>"
