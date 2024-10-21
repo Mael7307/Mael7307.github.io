@@ -82,19 +82,32 @@ content:
         title: "<a href='https://arxiv.org/abs/2201.10262'>Do Transformers Encode a Foundational Ontology? Probing Abstract Classes in Natural Language</a>"
         caption: "arXiv, 2022"
         sub_title: "Co-authors: Mael Jullien, Marco Valentino, André Freitas"
-        
+             
   - title: Competitions and Shared Tasks Organisation # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top
         title: "<a href='https://aclanthology.org/2024.semeval-1.271/'>SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials</a>"
-        caption: "The 17th International Workshop on Semantic Evaluation (Semeval-2024) co-located with the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024). Mexico City, Mexico."
+        caption: "The 18th International Workshop on Semantic Evaluation (Semeval-2024) co-located with the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024). Mexico City, Mexico."
         sub_title: "Co-authors: Mael Jullien, Marco Valentino, André Freitas"
       - layout: top
         title: "<a href='https://arxiv.org/abs/2305.02993'>SemEval-2023 Task 7: Multi-Evidence Natural Language Inference for Clinical Trial Data</a>"
         caption: "The 17th International Workshop on Semantic Evaluation (Semeval-2023) co-located with The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). Toronto, Canada."
         sub_title: "Co-authors: Mael Jullien, Marco Valentino, André Freitas"       
         
+  - title: Talks and Posters # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top
+        title: "<a href='https://aclanthology.org/2023.emnlp-main.1041/'>NLI4CT: Multi-Evidence Natural Language Inference for Clinical Trial Reports</a>"
+        caption: "Poster presentation at the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)."
+      - layout: top
+        title: "<a href='https://aclanthology.org/2024.semeval-1.271/'>SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials</a>"
+        caption: "Oral presentation at the 18th International Workshop on Semantic Evaluation (Semeval-2024) co-located with the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024). Mexico City, Mexico."
+      - layout: top
+        title: "<a href='https://arxiv.org/abs/2305.02993'>SemEval-2023 Task 7: Multi-Evidence Natural Language Inference for Clinical Trial Data</a>"
+        caption: "Oral presentation at the 17th International Workshop on Semantic Evaluation (Semeval-2023) co-located with The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). Toronto, Canada."        
+                 
   - title: Awards # Title for the section
     layout: list # Type of content section (list/text)
     content:
