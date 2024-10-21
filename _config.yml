@@ -58,11 +58,9 @@ content:
         title: University of Nottingham
         caption: 2020
         sub_title: MSc in Computer Science and Artificial Intelligence (Distinction)
-        quote: >
-          Thesis: "Histological Image Registration using Deep Convolutional Features"
-        description: | # this will include new lines to allow paragraphs
-          During my MSc, I developed a strong foundation in Artificial Intelligence, focusing on key areas such as convolutional neural networks. My dissertation work centered on applying AI to the clinical domain, which has been pivotal in shaping my research direction.
-
+        description: |
+        *Thesis: "Histological Image Registration using Deep Convolutional Features"*
+        During my MSc, I developed a strong foundation in Artificial Intelligence, focusing on key areas such as convolutional neural networks. My dissertation work centered on applying AI to the clinical domain, which has been pivotal in shaping my research direction.
       - layout: top
         title: University of Leicester
         caption: 2019
