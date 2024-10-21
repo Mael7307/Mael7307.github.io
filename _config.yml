@@ -70,9 +70,8 @@ content:
         caption: "arXiv, 2022"
         sub_title: "Co-authors: Mael Jullien, Marco Valentino, André Freitas"
         
-  - title: Workshop Organisation # Title for the section
+  - title: Competitions and Shared Tasks Organisation # Title for the section
     layout: list # Type of content section (list/text)
-    description: I have contributed to the organisation of the following workshops at international conferences.
     content:
       - layout: top
         title: "<a href='https://aclanthology.org/2024.semeval-1.271/'>SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials</a>"
