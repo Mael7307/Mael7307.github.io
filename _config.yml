@@ -41,9 +41,7 @@ orcid_username: 0000-0002-0303-2046
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+I am a Ph.D. student in the Department of Computer Science at the University of Manchester. I hold an MSc in Computer Science and Artificial Intelligence from the University of Nottingham and a BSc in Mathematics from the University of Leicester, both achieved with distinction. My current research focuses on <mark>Natural Language Inference<mark> within the clinical domain, leveraging <mark>neuro-symbolic models<mark>.
 
 content:
   - title: Projects # Title for the section
