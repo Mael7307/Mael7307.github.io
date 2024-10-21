@@ -9,14 +9,16 @@
   justify-content: space-between;
   align-items: baseline;
 }
-
+/* Style the date next to the title */
 .education-title {
   font-weight: bold;
 }
 
 .education-date {
-  font-style: italic;
-  margin-left: 1em; /* Space between university name and date */
+  font-size: 0.85em; /* Makes the date smaller */
+  font-weight: normal; /* Ensures the date is not bold */
+  margin-left: 0.5em; /* Adds a little space between the university name and the date */
+  color: #6c757d; /* Optional: Gray color to match the caption style */
 }
 
 .education-thesis {
