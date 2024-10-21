@@ -96,7 +96,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: University of Nottingham
         caption: 2020
         sub_title: MSc in Computer Science and Artificial Intelligence (Distinction)
@@ -105,7 +105,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my MSc, I developed a strong foundation in Artificial Intelligence, focusing on key areas such as convolutional neural networks. My dissertation work centered on applying AI to the clinical domain, which has been pivotal in shaping my research direction.
 
-      - layout: left
+      - layout: top
         title: University of Leicester
         caption: 2019
         sub_title: BSc Hons in Mathematics (First Class Honours)
