@@ -55,8 +55,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: "SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials"
+      - title: "SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials"
         caption: "SemEval, 2024"
         sub_title: "Co-authors: Mael Jullien, Marco Valentino, André Freitas"
         description: |
