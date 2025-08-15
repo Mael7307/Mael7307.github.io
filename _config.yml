@@ -109,7 +109,11 @@ content:
         caption: "Oral presentation at the 17th International Workshop on Semantic Evaluation (Semeval-2023) co-located with The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). Toronto, Canada."        
       - layout: top
         title: "AI-Enabled Monitoring of Clinical Trial Protocol Deviations"
-        caption: "Oral presentation at the Advances in Data Science and Artificial Intelligence Conference 2024 (ADSAI 2024). Manchester, UK."        
+        caption: "Oral presentation at the Advances in Data Science and Artificial Intelligence Conference 2024 (ADSAI 2024). Manchester, UK."   
+      - layout: top
+        title: "AI functionality in the UpSMART Protocol Deviation Tool"
+        caption: "Oral presentation at the 2024 Manchester ECMC Showcase. Manchester, UK."   
+        
                                   
   - title: Awards # Title for the section
     layout: list # Type of content section (list/text)
