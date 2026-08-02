@@ -102,6 +102,9 @@ export default function Home() {
                   <p>Now</p><div><span>Luminance</span><h3>R&amp;D Engineer</h3><p>Agentic AI systems, evaluation, and language technology</p></div>
                 </article>
                 <article className="background-row">
+                  <p>2025–26</p><div><span>Idiap Research Institute</span><h3>Research Intern: Doctorate</h3><p>Apr 2025 – Jan 2026 · 10 mos · Full-time</p></div>
+                </article>
+                <article className="background-row">
                   <p>2026</p><div><span>University of Manchester</span><h3>PhD Computer Science</h3><p>Clinical NLI, retrieval, and controlled reasoning</p></div>
                 </article>
                 <article className="background-row">
