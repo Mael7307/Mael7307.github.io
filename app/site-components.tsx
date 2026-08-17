@@ -10,6 +10,12 @@ export const Arrow = ({ diagonal = false }: { diagonal?: boolean }) => (
   </svg>
 );
 
+export const Download = () => (
+  <svg aria-hidden="true" viewBox="0 0 18 18" width="18" height="18">
+    <path d="M9 3v8M5.5 7.5 9 11l3.5-3.5M4 14h10" fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.6" />
+  </svg>
+);
+
 export function Header() {
   return (
     <nav className="nav wrap" aria-label="Main navigation">
