@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
-import { Arrow, Footer, Header } from "./site-components";
+import { Arrow, Download, Footer, Header } from "./site-components";
 import { siteUrl } from "./site-config";
 
 export const metadata: Metadata = {
@@ -62,6 +62,9 @@ export default function Home() {
           </p>
           <div className="hero-actions">
             <Link className="button button-primary" href="/projects">View research <Arrow /></Link>
+            <a className="button button-quiet" href="/Mael_Jullien_CV.pdf" download>
+              Download CV <Download />
+            </a>
           </div>
           <p className="hero-interest"><strong>Interested in</strong> advanced AI engineering and research collaborations in agentic systems, evaluation, and grounded NLP.</p>
         </div>
