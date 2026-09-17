@@ -78,9 +78,8 @@ h1 em { color: var(--primary); font-weight: inherit; }
 .section-dark { padding-block: 38px 42px; background: var(--navy); color: #f5f7fa; box-shadow: inset 0 2px 0 var(--accent); }
 .profile-grid { display: grid; grid-template-columns: 1.08fr .92fr; gap: 48px; border-top: 1px solid rgba(255,255,255,.16); }
 .profile-column-label { margin: 0; padding: 13px 0 11px; border-bottom: 1px solid rgba(255,255,255,.16); color: rgba(255,255,255,.46); font-size: .63rem; font-weight: 700; letter-spacing: .13em; text-transform: uppercase; }
-.capability-grid { display: grid; grid-template-columns: 1fr 1fr; }
+.capability-grid { display: grid; grid-template-columns: 1fr; }
 .capability-card { min-height: 98px; padding: 15px 22px 14px 0; border-bottom: 1px solid rgba(255,255,255,.13); }
-.capability-card:nth-child(even) { padding-left: 22px; border-left: 1px solid rgba(255,255,255,.13); }
 .capability-card h2 { margin: 0 0 6px; font: 400 clamp(1.12rem, 1.45vw, 1.32rem)/1.1 Georgia, serif; letter-spacing: -.025em; }
 .capability-card p { margin: 0; color: rgba(255,255,255,.6); font-size: .77rem; line-height: 1.46; }
 .background-column { padding-left: 4px; }
@@ -176,8 +175,7 @@ h1 em { color: var(--primary); font-weight: inherit; }
   .nav-links { gap: 13px; font-size: .75rem; }
   .about-copy { grid-template-columns: 1fr; gap: 18px; }
   .about-copy .lead { grid-column: auto; }
-  .capability-grid { grid-template-columns: 1fr; }
-  .capability-card, .capability-card:nth-child(even) { min-height: 0; padding: 16px 0; border-left: 0; }
+  .capability-card { min-height: 0; padding: 16px 0; }
   .projects-cta { padding-block: 34px 37px; }
   .project-copy { min-height: 0; }
 }

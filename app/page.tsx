@@ -38,8 +38,8 @@ const personJsonLd = {
 
 const capabilities = [
   { title: "Agent architecture", text: "Stateful multi-agent workflows, tool routing, specialised solvers, verification, and iterative refinement." },
-  { title: "Evaluation systems", text: "Reproducible benchmarks, objective scoring, diagnostic datasets, regression analysis, and model comparison." },
   { title: "Grounded reasoning", text: "Retrieval pipelines, evidence ranking, source attribution, and explicit inference over complex documents." },
+  { title: "Evaluation systems", text: "Reproducible benchmarks, objective scoring, diagnostic datasets, regression analysis, and model comparison." },
 ];
 
 export default function Home() {
